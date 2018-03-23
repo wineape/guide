@@ -1,0 +1,27 @@
+body {
+	background-color: #6d2f2f;
+}
+
+h1 {
+	color: #fffaf1;
+}
+
+#wrapper {
+	max-width: 800px;
+	margin: auto;
+}
+
+.review {
+	background-color: #fffaf1;
+	padding: 0.5em 2em;
+	border-bottom: 2px dashed #cfc3af;
+}
+
+img {
+	display: block;
+	margin: auto;
+}
+
+h2 {
+	border-bottom: 1px solid #cfc3af;
+}
